@@ -2,9 +2,7 @@
 /reward_models
 /myvenv
 hugging_face_token.txt
-/paper
 /amazon-reviews
-/dataset
 /nlp_bert
 /template_files
 app.py
