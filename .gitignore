@@ -3,7 +3,6 @@
 hugging_face_token.txt
 /amazon-reviews
 /nlp_bert
-/template_files
 app.py
 error.log
 eval.py
@@ -21,8 +20,6 @@ score.py
 screenshot.pdf
 sentiment.py
 summary_output.txt
-templates.py
 test_results.json
 test_results.txt
 updated_test_results.json
-using_reward_models.py

@@ -1,0 +1,14 @@
+The input is a text formatted as "aspect-polarity-sentence" about {topic}. Your task is to generate a balanced and accurate summary using the multiple aspects, their corresponding polarity, and the associated sentences provided.
+
+In the summary, ensure:
+
+No factual errors.
+Coverage of multiple perspectives (both positive and negative).
+Exclusion of any information not explicitly mentioned in the input.
+A smooth and comprehensive narrative that considers both pros and cons seamlessly.
+Give a crisp, concise and short summarized review as output.
+Input
+Review: {text}
+
+Output
+Summarized Review:

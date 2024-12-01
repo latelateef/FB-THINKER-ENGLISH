@@ -1,0 +1,24 @@
+Input Format:
+The input is a text formatted as "aspect-polarity-sentence" about {topic}.
+
+Your Task:
+Generate two separate summaries from the input with the output format provided:
+
+Positive/Neutral Summary: Summarize the aspects with positive and neutral polarities, focusing on the strengths and neutral observations.
+Negative/Neutral Summary: Summarize the aspects with negative and neutral polarities, highlighting the criticisms and any neutral observations relevant to improvement areas.
+Guidelines:
+
+Ensure no factual errors.
+Cover all perspectives accurately within the respective summaries.
+Exclude any information not explicitly mentioned in the input.
+Ensure the summaries are smooth, comprehensive, and well-organized.
+Input:
+Review: {text}
+
+Output Format:
+
+### Positive/Neutral Summary:
+{Write summary here}
+
+### Negative/Neutral Summary:
+{Write summary here}

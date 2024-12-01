@@ -1,0 +1,8 @@
+The input includes a review text about <>topic</>.
+Please refer to the following example output, first list all aspect information about <>topic</> based on the input text. Then, for each aspect, list the polarity and supporting sentence for the aspect. The polarity can be positive, negative, or neutral.
+## Example
+Input: <>review</>
+Output:
+[Aspect1-Polarity1-Sentence1]
+[Aspect2-Polarity2-Sentence2]
+. . .
