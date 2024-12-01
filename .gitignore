@@ -11,7 +11,6 @@ evaluation.py
 evaluation.txt
 final.py
 generate_summary.py
-initial_summary.py
 input_text.txt
 job.sh
 Miniconda3-latest-Linux-x86_64.sh
