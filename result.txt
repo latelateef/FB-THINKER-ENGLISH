@@ -1,0 +1,62 @@
+Pipeline created: <transformers.pipelines.text_generation.TextGenerationPipeline object at 0x7fdb655c95d0>
+Extracted topic: Here are the entities extracted from the given reviews:
+
+1. Redmi note 13 pro
+2. Redmi note 7 pro
+3. BGMI
+4. Call of Duty
+5. Free Fire
+The input includes a review text about <>topic</>.
+Please refer to the following example output, first list all
+aspect information about <>topic</> based on the input
+text. Then, for each aspect, list the polarity and supporting
+sentence for the aspect. The polarity can be
+positive, negative, or neutral.
+## Example
+Input: <>review</>
+Output:
+[Aspect1-Polarity1-Sentence1]
+[Aspect2-Polarity2-Sentence2]
+. . .
+Aspect polarity sentence: Based on the given review text, here are the extracted information about the topic "Redmi note 13 pro".
+
+**Aspects of Redmi note 13 pro:**
+
+1. **Features and Quality**
+2. **Performance**
+3. **Rear Camera Quality**
+4. **Battery Life**
+5. **Value for Money**
+6. **Camera Quality (Compared to Redmi note 7 pro)**
+7. **Gesture Control**
+8. **Finger Sensor**
+9. **Screen Wake-up Feature**
+10. **Double-Tap Screen Wake-up Feature**
+11. **Gallery Selection**
+12. **Deleted Pictures**
+13. **Display Quality**
+14. **Light Weight**
+15. **Gaming Performance (BGMI, Call of Duty, Free Fire)**
+
+**Aspect-Polarity-Sentence for each aspect:**
+
+1. **Features and Quality** - Positive - "Ossum features and quality As compared to other branded mobile at this price."
+2. **Features and Quality** - Positive - "reviewing after 10 months of use.still no problem."
+3. **Performance** - Positive - "Good performance"
+4. **Rear Camera Quality** - Neutral - "rear camera quakity is not god"
+5. **Rear Camera Quality** - Positive - "but back cameras are amazing."
+6. **Battery Life** - Neutral - "Average battery life."
+7. **Value for Money** - Positive - "Valuefor money."
+8. **Features and Quality** - Negative - "If u r buying this after using previous Redmi phones that worked superbly then plz don't go for this."
+9. **Camera Quality (Compared to Redmi note 7 pro)** - Negative - "Camera quality is very poor when compared to Redmi note 7 pro; only centre is focussed & rest area blurs progressively while moving towards periphery"
+10. **Gesture Control** - Negative - "Gesture control lacks BACK function by swiping screen from right edge to middle."
+11. **Finger Sensor** - Negative - "Finger sensor fails to recognize your thumb in almost half instances."
+12. **Screen Wake-up Feature** - Negative - "Screen doesn't wake spontaneously during active call when u take phone away from your ear."
+13. **Double-Tap Screen Wake-up Feature** - Negative - "Sometimes "double-tap screen wake up" doesn't work."
+14. **Gallery Selection** - Negative - "While selecting multiple pics in gallery, one
+Initial summary: Summarized Review:
+
+The Redmi Note 13 Pro has received mixed reviews, showcasing both impressive and underwhelming features. On the positive side, users have praised its "ossum features and quality" and "good performance" which have stood the test of time, with one user still experiencing no problems after 10 months of use. The phone also offers "value for money" and boasts "amazing" rear cameras. However, some users have expressed disappointment with certain aspects. The rear camera quality is not up to par when compared to the Redmi Note 7 Pro, with blurry periphery areas. Additionally, the phone's gesture control is lacking, with a missing "back" function, and the finger sensor is unreliable, often failing to recognize the user's thumb. Furthermore, the screen wake-up feature and double-tap screen wake-up feature have been known to malfunction at times. Overall, while the Redmi Note 13 Pro has its strengths, it also has some notable weaknesses that may deter potential buyers.
+Initial summary is correct, proceeding to final summary.
+Review sentiment: Average
+Summary has been saved to ./summary_output.txt
