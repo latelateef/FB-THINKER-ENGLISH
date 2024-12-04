@@ -1,5 +1,4 @@
 /reward_models
-/myvenv
 hugging_face_token.txt
 /amazon-reviews
 /nlp_bert
@@ -8,8 +7,6 @@ error.log
 eval.py
 evaluation.py
 evaluation.txt
-final.py
-generate_summary.py
 input_text.txt
 job.sh
 Miniconda3-latest-Linux-x86_64.sh
@@ -18,7 +15,6 @@ out.log
 result.txt
 score.py
 screenshot.pdf
-sentiment.py
 summary_output.txt
 test_results.json
 test_results.txt
