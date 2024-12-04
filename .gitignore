@@ -5,6 +5,3 @@ error.log
 job.sh
 Miniconda3-latest-Linux-x86_64.sh
 out.log
-score.py
-test_results.txt
-updated_test_results.json

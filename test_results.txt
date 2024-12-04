@@ -1,0 +1,9 @@
+Average Scores Across All Summaries:
+BLEU Score: 0.0285
+ROUGE-1: 0.2510
+ROUGE-2: 0.0687
+ROUGE-L: 0.1711
+METEOR Score: 0.2884
+BERTScore: 0.8456
+
+Results saved to updated_test_results.json.
