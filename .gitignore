@@ -1,14 +1,10 @@
 /reward_models
 hugging_face_token.txt
-/amazon-reviews
 /nlp_bert
 error.log
-eval.py
-evaluation.txt
 job.sh
 Miniconda3-latest-Linux-x86_64.sh
 out.log
 score.py
-test_results.json
 test_results.txt
 updated_test_results.json

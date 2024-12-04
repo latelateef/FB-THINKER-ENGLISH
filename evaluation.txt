@@ -1,0 +1,8 @@
+
+Average scores:
+  BLEU: 0.0123
+  ROUGE-1: 0.2330
+  ROUGE-2: 0.0498
+  ROUGE-L: 0.1534
+  METEOR: 0.2706
+  BERT_SCORE: 0.8316
