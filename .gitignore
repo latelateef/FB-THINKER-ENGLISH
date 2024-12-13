@@ -1,7 +1,5 @@
 /reward_models
 hugging_face_token.txt
 /nlp_bert
-error.log
 job.sh
-Miniconda3-latest-Linux-x86_64.sh
 out.log
