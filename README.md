@@ -43,18 +43,18 @@ python app.py
 ---
 
 ### Files and Directories
-`app.py:` Main application script.
-`generate_summary.py:` Contains functions to generate summaries.
-`initial_summary.py:` Contains functions to generate initial summaries.
-`eval.py:` Script to evaluate summaries.
-`evaluation.py:` Contains functions to evaluate summaries.
-`score.py:` Contains functions to calculate BLEU, ROUGE, METEOR, and BERTScore.
-`sentiment.py:` Contains functions for sentiment analysis.
-`templates.py:` Contains functions to generate templates for text generation.
-`using_reward_models.py:` Contains functions to use reward models for text refinement.
-`downloading_llama.py:` Script to download and save the LLM model.
-`train_longformer.ipynb:` Jupyter notebook to fine-tune and save LongFormer models.
-`language_translate/:` Directory containing code for dataset translation from chinese to english.
-`template_files/:` Directory containing template files for text generation.
+- `app.py:` Main application script.
+- `generate_summary.py:` Contains functions to generate summaries.
+- `initial_summary.py:` Contains functions to generate initial summaries.
+- `eval.py:` Script to evaluate summaries.
+- `evaluation.py:` Contains functions to evaluate summaries.
+- `score.py:` Contains functions to calculate BLEU, ROUGE, METEOR, and BERTScore.
+- `sentiment.py:` Contains functions for sentiment analysis.
+- `templates.py:` Contains functions to generate templates for text generation.
+- `using_reward_models.py:` Contains functions to use reward models for text refinement.
+- `downloading_llama.py:` Script to download and save the LLM model.
+- `train_longformer.ipynb:` Jupyter notebook to fine-tune and save LongFormer models.
+- `language_translate/:` Directory containing code for dataset translation from chinese to english.
+- `template_files/:` Directory containing template files for text generation.
 
 ---
